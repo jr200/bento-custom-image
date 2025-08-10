@@ -12,5 +12,5 @@ run:
 	docker run --rm ghcr.io/jr200/bento-custom-image:local
 
 shell:
-	docker run --rm -it --entrypoint /bin/sh ghcr.io/jr200/bento-custom-image:local
+	docker run --rm -it --entrypoint /bin/bash ghcr.io/jr200/bento-custom-image:local
 

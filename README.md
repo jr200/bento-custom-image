@@ -1,6 +1,8 @@
 # bento-custom-image
 
-So far its just bento with `curl`, `jq` and `python`.
+Bento image with:
+- `curl`, `python`.
+- a fastapi http-server on http://127.0.0.1:8123
 
 # References
 - bento: https://github.com/warpstreamlabs/bento
