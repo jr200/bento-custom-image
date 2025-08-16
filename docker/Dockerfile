@@ -1,5 +1,5 @@
 # https://github.com/warpstreamlabs/bento/pkgs/container/bento
-ARG BENTO_VERSION=1.9.1
+ARG BENTO_VERSION=1.10.0
 FROM ghcr.io/warpstreamlabs/bento:${BENTO_VERSION} as bento
 
 # Pack
